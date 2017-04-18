@@ -23,7 +23,7 @@ cd hello-world
 ```
 
 ```console
-open index.html
+open hello-world.html
 ```
 
 ## Planning
